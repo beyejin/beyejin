@@ -1,4 +1,4 @@
-### 한예진
+### 나는 명량소녀 한예진 코딩딩딩
 
 <!--
 **beyejin/beyejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
