@@ -1,4 +1,5 @@
 ### 나는 명량소녀 한예진 코딩딩딩
+🤔 I’m looking for help with project14675
 
 <!--
 **beyejin/beyejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
