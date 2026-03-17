@@ -4,9 +4,7 @@
 🎓 Gachon University – AI·Software  
 🌱 Currently learning **Backend / AI / Web Development**
 
-AI / Software Engineering Student
-Backend Developer
-Spring Boot | React | AI
+---
 
 ## 👩‍💻 About Me
 
