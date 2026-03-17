@@ -4,7 +4,7 @@
 🎓 Gachon University – AI·Software  
 🌱 Currently learning **Backend / AI / Web Development**
 
----
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## 👩‍💻 About Me
 
