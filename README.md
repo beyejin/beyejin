@@ -1,12 +1,13 @@
 # 🤖  안녕하세요. 저는 한예진 입니다. 🐯
 
 
-[![Hits](https://hits.sh/github.com/beyejin.svg?color=8eacff&labelColor=767474)](https://hits.sh/github.com/beyejin/)
+[![Hits](https://hits.sh/github.com/beyejin.svg?view=today-total&style=flat-square&color=8eacff&labelColor=767474)](https://hits.sh/github.com/beyejin/)
 
 ### Get in Touch
 
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](https://zin-be.tistory.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<여러분들 linkedin 주소>)](<[https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/)>](https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/)>)
+[![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-Tistory-orange?style=flat-square&logo=tistory)](https://zin-be.tistory.com/)
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/)
 
 <!--
 **beyejin/beyejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
