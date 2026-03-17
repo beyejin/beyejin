@@ -4,7 +4,9 @@
 🎓 Gachon University – AI·Software  
 🌱 Currently learning **Backend / AI / Web Development**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;AI+Student;Full+Stack+Learner&center=true&size=25)
+AI / Software Engineering Student
+Backend Developer
+Spring Boot | React | AI
 
 ## 👩‍💻 About Me
 
