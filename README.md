@@ -5,9 +5,8 @@
 
 ### Get in Touch
 
-[![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-Tistory-orange?style=flat-square&logo=tistory)](https://zin-be.tistory.com/)
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/)
+[![Blog](https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square&logo=tistory)](https://zin-be.tistory.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/)
 
 <!--
 **beyejin/beyejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
