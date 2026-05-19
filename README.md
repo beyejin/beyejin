@@ -17,9 +17,16 @@
 
 ## 📫 Get in Touch
 
-[![Blog](https://img.shields.io/badge/Blog-Tistory-orange?style=for-the-badge&logo=tistory)](https://zin-be.tistory.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/)
+<div align="center">
+  <a href="https://zin-be.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-Tistory-orange?style=for-the-badge&logo=tistory" alt="Tistory Blog" />
+  </a>
+  <a href="https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
+---
 
 ## 🛠 Tech Stack
 
@@ -38,34 +45,50 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
-![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyejin&show_icons=true&theme=tokyonight)
-
-## 🏅 Stats
 <div align="center">
   <a href="https://github.com/beyejin">
     <img
       width="390"
       src="https://my-readme-stats.vercel.app/api?username=beyejin&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&hide_border=true&title_color=2f81f7&text_color=ffffff&icon_color=2f81f7"
+      alt="Yejin's GitHub Stats"
     />
     <img
       width="390"
       src="https://my-readme-stats.vercel.app/api/top-langs/?username=beyejin&layout=compact&langs_count=6&bg_color=000000&hide_border=true&title_color=2f81f7&text_color=ffffff"
+      alt="Top Languages"
     />
   </a>
 </div>
+
+<br />
+
+<div align="center">
+  <img
+    width="790"
+    src="https://streak-stats.demolab.com?user=beyejin&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</div>
+
 ---
 
+## 🧊 Knowledge Topography
 
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyejin&layout=compact&theme=tokyonight)
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/beyejin/beyejin/main/profile-3d-contrib/profile-night-rainbow.svg"
+    alt="3D Contribution Graph"
+  />
+</div>
 
 ---
 
 ## 👀 Visitors
 
-[![Hits](https://hits.sh/github.com/beyejin.svg?view=today-total&style=flat-square&color=8eacff&labelColor=767474)](https://hits.sh/github.com/beyejin/)
+<div align="center">
+  <a href="https://hits.sh/github.com/beyejin/">
+    <img src="https://hits.sh/github.com/beyejin.svg?view=today-total&style=flat-square&color=8eacff&labelColor=767474" alt="Visitors" />
+  </a>
+</div>
