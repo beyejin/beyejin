@@ -51,11 +51,6 @@
   <a href="https://github.com/beyejin">
     <img
       width="390"
-      src="https://my-readme-stats.vercel.app/api?username=beyejin&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&hide_border=true&title_color=2f81f7&text_color=ffffff&icon_color=2f81f7"
-      alt="Yejin's GitHub Stats"
-    />
-    <img
-      width="390"
       src="https://my-readme-stats.vercel.app/api/top-langs/?username=beyejin&layout=compact&langs_count=6&bg_color=000000&hide_border=true&title_color=2f81f7&text_color=ffffff"
       alt="Top Languages"
     />
