@@ -6,8 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_YejinHan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%84%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%84%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/)
 
   - 💻 Software Engineering Student  
-  - 🎓 Gachon University – AI·Software 
-
+  - 🎓 Gachon University – AI·Software
 ---
 
 ## 👩‍💻 About Me
@@ -87,7 +86,6 @@
 
 ## 📊 GitHub Stats
 
-
 <img
   width="390"
   src="https://my-readme-stats.vercel.app/api/top-langs/?username=beyejin&layout=compact&langs_count=6&bg_color=000000&hide_border=true&title_color=2f81f7&text_color=ffffff"
@@ -95,12 +93,6 @@
 
 </div>
 
----
-
-## 👀 Visitors
-
 <a href="https://hits.sh/github.com/beyejin/">
   <img src="https://hits.sh/github.com/beyejin.svg?view=today-total&style=flat-square&color=8eacff&labelColor=767474"/>
 </a>
-
-</div>
