@@ -94,20 +94,11 @@
   src="https://my-readme-stats.vercel.app/api/top-langs/?username=beyejin&layout=compact&langs_count=6&bg_color=000000&hide_border=true&title_color=2f81f7&text_color=ffffff"
 />
 
-<br /><br />
-
-<img
-  width="790"
-  src="https://streak-stats.demolab.com?user=beyejin&theme=tokyonight&hide_border=true"
-/>
-
 </div>
 
 ---
 
 ## 👀 Visitors
-
-<div align="center">
 
 <a href="https://hits.sh/github.com/beyejin/">
   <img src="https://hits.sh/github.com/beyejin.svg?view=today-total&style=flat-square&color=8eacff&labelColor=767474"/>
