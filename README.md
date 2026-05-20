@@ -87,7 +87,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
 <img
   width="390"
