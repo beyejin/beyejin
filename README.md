@@ -1,7 +1,22 @@
+
 # 👋 Hi, I'm Yejin Han
 
-💻 Software Engineering Student  
-🎓 Gachon University – AI·Software
+<p>
+  <a href="https://zin-be.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white"/>
+  </a>
+
+  <a href="mailto:hanroona8844@naver.com">
+    <img src="https://img.shields.io/badge/hanroona8844%40naver.com-03C75A?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%84%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%84%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/">
+  <img src="https://img.shields.io/badge/LinkedIn_YejinHan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+  - 💻 Software Engineering Student  
+  - 🎓 Gachon University – AI·Software 
 
 ---
 
@@ -14,17 +29,19 @@
 
 ---
 
-## 🖥 Languages & Frameworks
+## 🛠 Technologies & Tools
 
 <table>
+
 <tr>
   <td><b>Backend</b></td>
   <td>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
   </td>
 </tr>
@@ -42,10 +59,9 @@
 </tr>
 
 <tr>
-  <td><b>AI / Data</b></td>
+  <td><b>AI / ML</b></td>
   <td>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
@@ -53,39 +69,24 @@
 </tr>
 
 <tr>
-  <td><b>Infra & Tools</b></td>
+  <td><b>Cloud & Infra</b></td>
   <td>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+  </td>
+</tr>
+
+<tr>
+  <td><b>Tools & Collaboration</b></td>
+  <td>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-  </td>
-</tr>
-
-<tr>
-  <td><b>Contact</b></td>
-  <td>
-
-<a href="https://zin-be.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-  </td>
-</tr>
-
-<tr>
-  <td><b>Visitors</b></td>
-  <td>
-
-<a href="https://hits.sh/github.com/beyejin/">
-  <img src="https://hits.sh/github.com/beyejin.svg?view=today-total&style=flat-square&color=8eacff&labelColor=767474"/>
-</a>
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
   </td>
 </tr>
@@ -109,5 +110,33 @@
   width="790"
   src="https://streak-stats.demolab.com?user=beyejin&theme=tokyonight&hide_border=true"
 />
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://zin-be.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👀 Visitors
+
+<div align="center">
+
+<a href="https://hits.sh/github.com/beyejin/">
+  <img src="https://hits.sh/github.com/beyejin.svg?view=today-total&style=flat-square&color=8eacff&labelColor=767474"/>
+</a>
 
 </div>
