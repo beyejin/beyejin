@@ -1,19 +1,9 @@
 
 # 👋 Hi, I'm Yejin Han
 
-<p>
-  <a href="https://zin-be.tistory.com/">
-    <img src="https://img.shields.io/badge/Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white"/>
-  </a>
-
-  <a href="mailto:hanroona8844@naver.com">
-    <img src="https://img.shields.io/badge/hanroona8844%40naver.com-03C75A?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%84%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%84%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/">
-  <img src="https://img.shields.io/badge/LinkedIn_YejinHan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+[![Blog](https://img.shields.io/badge/Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://zin-be.tistory.com/)
+[![Email](https://img.shields.io/badge/hanroona8844%40naver.com-03C75A?style=flat-square&logo=gmail&logoColor=white)](mailto:hanroona8844@naver.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_YejinHan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%84%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%84%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/)
 
   - 💻 Software Engineering Student  
   - 🎓 Gachon University – AI·Software 
@@ -110,22 +100,6 @@
   width="790"
   src="https://streak-stats.demolab.com?user=beyejin&theme=tokyonight&hide_border=true"
 />
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="https://zin-be.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ai-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5-%ED%95%9C%EC%98%88%EC%A7%84-13a0023b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
 
 </div>
 
