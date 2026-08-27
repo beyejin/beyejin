@@ -84,6 +84,12 @@
 
 ---
 
+## 🌐 Portfolio
+
+[View my portfolio →](https://beyejin.github.io/)
+
+---
+
 ## 🚀 Featured Projects
 
 - [Albam Mate](https://github.com/bamsongi-club/albam-mate)  
